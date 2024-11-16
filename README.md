@@ -43,4 +43,4 @@ This project deals with the Tensorflow and Keras libraries of Python. I used dee
 
 
 
-The other projects in my Portfolio are demonstrations of Machine Learning, Data Visualization, Data Processing, Data Preprocessing, Statistical Analysis and Data Analytics.
+The projects in my Portfolio are demonstrations of Machine Learning, Data Visualization, Data Processing, Data Preprocessing, Statistical Analysis and Data Analytics.
